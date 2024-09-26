@@ -1,0 +1,1 @@
+Portfolio is a collection of work samples, credentials, and other materials that demonstrate your skills, qualifications, and experience.
