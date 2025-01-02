@@ -1,6 +1,9 @@
 # Portfolio
 <pre>With a mobile-first approach, my portfolio adapts to any screen size, boasting a 99% compatibility rate with popular devices,
 including smartphones, tablets, and desktops.</pre>
+### Technology used:
+<pre>
+  - HTML, CSS, JAVASCRIPTS </pre>
 
 ### DEMO LINK
 <pre>
