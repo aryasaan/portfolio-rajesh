@@ -3,7 +3,7 @@
 including smartphones, tablets, and desktops.</pre>
 ### Technology used:
 <pre>
-  - HTML, CSS, JAVASCRIPTS </pre>
+  . HTML, CSS, JAVASCRIPTS </pre>
 
 ### DEMO LINK
 <pre>
